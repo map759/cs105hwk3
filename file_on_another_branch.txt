@@ -1,2 +1,4 @@
 This is a file on my aptly named branch called another_branch.
 It's a very interesting file.
+
+Adding a another line for another commit.
