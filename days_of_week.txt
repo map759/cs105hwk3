@@ -1,9 +1,9 @@
 Here is a new file to edit with the days of the week
 
+Sunday
 Monday
 Tuesday
 Wednesday
 Thursday
 Friday
 Saturday
-Sunday
